@@ -1,7 +1,7 @@
 {
   "bin": "./bin/cblite",
   "name": "cblite-cli-macos",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "cblite cli for cblite 2.x",
   "main": "bin/cblite",
   "directories": {
