@@ -1,7 +1,8 @@
 {
-  "name": "cblite-cli",
+  "bin": "./bin/cblite",
+  "name": "cblite-cli-macos",
   "version": "1.0.0",
-  "description": "CLI for cbLite 2.x",
+  "description": "cblite cli for cblite 2.x",
   "main": "bin/cblite",
   "directories": {
     "test": "test"
@@ -11,8 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.build.ge.com:get-sat/cblite-cli.git"
+    "url": "git+https://github.com/sumeet-singh04/cblite-cli-macos.git"
   },
-  "author": "sumeet.singh1@ge.com",
-  "license": "ISC"
+  "author": "sumeet_singh871@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumeet-singh04/cblite-cli-macos/issues"
+  },
+  "homepage": "https://github.com/sumeet-singh04/cblite-cli-macos#readme"
 }
