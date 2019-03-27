@@ -1,0 +1,18 @@
+{
+  "name": "cblite-cli",
+  "version": "1.0.0",
+  "description": "CLI for cbLite 2.x",
+  "main": "bin/cblite",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.build.ge.com:get-sat/cblite-cli.git"
+  },
+  "author": "sumeet.singh1@ge.com",
+  "license": "ISC"
+}
