@@ -1,3 +1,7 @@
+# To Install
+
+`npm install -g cblite-cli-macos`
+
 # `cblite` Tool Documentation
 
 `cblite` is a command-line tool for inspecting and querying [LiteCore][LITECORE] and [Couchbase Lite][CBL] databases (which are directories with a `.cblite2` extension.)
